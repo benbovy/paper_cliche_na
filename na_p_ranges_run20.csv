@@ -1,0 +1,7 @@
+name,min,max,log
+P_0,2.5e-07,0.00025,True
+K_r12,1e-07,0.0005,True
+K_d,0.0001,0.05,True
+K_dd,0.0005,0.5,True
+K_g,0.0005,1.0,True
+h_init,0.0,3.0,False

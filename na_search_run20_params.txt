@@ -1,0 +1,35 @@
+(dp0
+S'n_iter'
+p1
+I20
+sS'debug_mode'
+p2
+S'n         '
+p3
+sS'verbose'
+p4
+I1
+sS'algorithm'
+p5
+I0
+sS'init_type'
+p6
+I-2
+sS'n_cell_iter'
+p7
+I32
+sS'n_spl_init'
+p8
+I1024
+sS'time_mode'
+p9
+S'y         '
+p10
+sS'seed'
+p11
+S'n,210728  '
+p12
+sS'n_spl_iter'
+p13
+I96
+s.
